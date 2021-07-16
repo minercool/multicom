@@ -1,0 +1,5 @@
+{
+    "env" : {
+        "CON_STRING" : "mongodb+srv://recon:27456520recon@cluster0.ceirl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
